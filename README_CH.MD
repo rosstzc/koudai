@@ -1,3 +1,7 @@
+[Chinese Version](https://github.com/rosstzc/koudai/blob/master/README_CH.MD)
+
+[English Version](https://github.com/rosstzc/koudai/blob/master/README.md)
+
 # 口袋支点的股票与板块分析
 
 ## 关键字说明
