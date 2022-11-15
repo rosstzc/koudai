@@ -49,15 +49,16 @@ This project was a complete development project that can be run directly. The fu
 
 ### Some screenshots of the project:
 
-1 数据处理后的数据列表：按日期生成相应板块的支点股票数，并根据板块的支点股票数、支点股票数占比(出现支点的股票占整个板块股票的比例)进行排序
+1 The figure below shows the output data of the project. The data includes the number of stocks with the pocket pivot signal in each sector every day.
 ![koudai1](https://user-images.githubusercontent.com/5052733/201505176-509041a7-332a-4165-9a4d-a156e41d2b18.png)
 
 
 
-2 查看板块的支点股票数的走势
+2 The figure below shows the trend of the number of stocks with pocket pivot signal in a stock sector.
 ![2 指定板块的支点数走势](https://user-images.githubusercontent.com/5052733/201504688-c6faee74-5f38-48bc-adf6-68e19cf91201.png)
-3 根据某天的支点股票占比来对板块进行排序， 比如下图2021年10月13日，“HJT电池”是支点股票占比最高
+
+3 The figure below shows the sequence of stock sectors according to the proportion of pivot stocks on a certain day.
 ![按日期查看支点比例排序](https://user-images.githubusercontent.com/5052733/201504819-e884a1b5-0208-401d-b190-06a63079e7e7.png)
 
-4 按日期来查看有口袋支点的股票所关联的板块
+4 The figure below shows the related sectors of the pivot stocks.
 ![当天支点所在板块的支点走势](https://user-images.githubusercontent.com/5052733/201504865-b13e3f7c-d841-4d84-8cf3-55dde97ee3fb.png)
