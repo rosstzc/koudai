@@ -1,3 +1,7 @@
+[Chinese Version](https://github.com/rosstzc/koudai/blob/master/README_CH.MD)
+
+[English Version](https://github.com/rosstzc/koudai/blob/master/README.md)
+
 # analysis of the pocket pivot signal and sectors 
 This project is to count the number of stocks  with the pocket pivot signal in each sector every day.  After a while, we will get a trend of the number of stocks signals for each sector. It helps us to know if a stock sector is going bullish or not.
 
